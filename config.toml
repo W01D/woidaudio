@@ -1,4 +1,4 @@
-baseURL = 'http://www.woidaudio.com'
+baseURL = 'http://www.zesty-yeot-bcd88c.netlify.app'
 languageCode = 'en-us'
 title = 'woidaudio'
 theme = "ananke"
