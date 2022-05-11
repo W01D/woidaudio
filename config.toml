@@ -1,0 +1,4 @@
+baseURL = 'http://www.example.org'
+languageCode = 'en-us'
+title = 'woidaudio'
+theme = "ananke"
